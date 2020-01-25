@@ -1,1 +1,2 @@
-Content of B.txt
+Content of B.txt 
+sample editing
